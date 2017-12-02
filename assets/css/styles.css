@@ -40,3 +40,19 @@ a:hover {
 .fa.fa-thumbs-down:hover {
 	color: red;
 }
+
+.fa.fa-pencil-square {
+	color: black;
+}
+
+.fa.fa-pencil-square:hover {
+	color: green;
+}
+
+.fa.fa-trash {
+	color: black;
+}
+
+.fa.fa-trash:hover {
+	color: red;
+}
